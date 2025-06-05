@@ -62,6 +62,14 @@ Python 3.9+ and the packages in requirements.txt (≈ 120 MB install). Power�
 
 
 
+
+
+**Final Dashboard:**
+
+![Dashboard](Dashboard%20-final.png)
+
+
+
 **Author: Ahmad Rasheed – Data Scientist**
 
 
