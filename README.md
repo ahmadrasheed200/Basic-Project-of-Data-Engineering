@@ -52,7 +52,7 @@ The goal is to give newcomers a hands‑on, reproducible example they can fork, 
 
 8) Favourite_Language
 
-A 50‑row sample (data/sample_data.csv) is included; the full file can be downloaded from the link in README_DATA.md.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
